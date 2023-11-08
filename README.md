@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Ajithkrm6
+- 👋 Hi, I’m Ajith kumar
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 1 year + experience in front end technologies like HTML,CSS,JS,RactJs,NextJs,TypeScript.
+Don't write better error messages, write code that doesn't need them..!
+@Ajithkrm6  Member since May 20, 2022
+
 - 📫 How to reach me 
-linkdIn https://www.linkedin.com/in/ajith-kumar-a34615168/
+linkdIn https://www.linkedin.com/in/ajith-kumar-/
 gmail- ajithhkumar35@gmail.com
 
 <!---
