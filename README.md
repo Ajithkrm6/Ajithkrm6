@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ajith kumar
 - 👀 I’m interested in full stack development
 - Don't write better error messages, write code that doesn't need them..!
-- @Ajithkrm6  Member since May 20, 2022
+- @Ajithkrm6  Member since May 20, 2020
 
 - 📫 How to reach me 
 gmail- ajithhkumar35@gmail.com
